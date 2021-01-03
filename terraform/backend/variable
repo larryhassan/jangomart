@@ -1,3 +1,0 @@
-variable "vault_addr" {default="http://ec2-52-90-103-17.compute-1.amazonaws.com:8200"}
-variable "vault_token" {default = "Vault Token Here"}
-variable "region" {default = "us-east-1"}
